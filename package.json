@@ -1,5 +1,6 @@
 {
-  "name": "client",
+  "name": "prince",
+  "homepage":"https://Princeprymus09.github.io/hotelApp_fronten",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
