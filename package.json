@@ -1,6 +1,5 @@
 {
   "name": "prince",
-  "homepage":"https://Princeprymus09.github.io/hotelApp_fronten",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -45,5 +44,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:5000/"
+  "proxy": "https://prince-hotelapp-backend.onrender.com"
 }
